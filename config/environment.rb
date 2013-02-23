@@ -14,7 +14,6 @@ Rails::Initializer.run do |config|
   config.gem 'bluecloth', '>= 2.0.7'
   config.gem "recaptcha", :lib => "recaptcha/rails"
   config.gem 'dalli'
-  config.gem 'fastercsv'
   config.gem 'icalendar'
 
 
